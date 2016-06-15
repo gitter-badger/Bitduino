@@ -1,6 +1,8 @@
 Bitduino
 ========
 
+[![Join the chat at https://gitter.im/jujugoboom/Bitduino](https://badges.gitter.im/jujugoboom/Bitduino.svg)](https://gitter.im/jujugoboom/Bitduino?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Generate Bitcoin Addresses Using Arduino
 
 Setup
